@@ -1,4 +1,4 @@
-# End-to-End-ML-Pipeline-with-Scikit-learn-Pipeline-API
+
 #  End-to-End ML Pipeline – Customer Churn Prediction
 
 This project builds a **reusable and production-ready ML pipeline** using the **Scikit-learn Pipeline API** to predict **customer churn** on the **Telco Customer Churn dataset**.
